@@ -1,0 +1,5 @@
+#17859   Password found!
+Encrypted password= $6$ab$hd95OZzt2zwVynVCmSAyVKW/gcOguutjaRh8W/4jdgdSPtDEOG7UpLYhHUECeCRN/eUkoIRZpSR3uAOyxQbR..
+Password:BS77
+17862 solutions explored
+Elapsed time: 42.5785 seconds
